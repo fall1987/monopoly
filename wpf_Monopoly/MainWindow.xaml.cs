@@ -19,7 +19,13 @@ namespace wpf_Monopoly {
     /// </summary>
     public partial class MainWindow : Window {
         public MainWindow() {
-            InitializeComponent();
+            InitializeComponent();            
+        }
+
+       
+
+        private void help_Click(object sender, RoutedEventArgs e) {
+
         }
     }
 }

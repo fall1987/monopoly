@@ -1,1 +1,14 @@
 c:\users\enp\documents\visual studio 2015\Projects\wpf_Monopoly\wpf_Monopoly\bin\Debug\wpf_Monopoly.exe.config
+c:\users\enp\documents\visual studio 2015\Projects\wpf_Monopoly\wpf_Monopoly\bin\Debug\wpf_Monopoly.exe
+c:\users\enp\documents\visual studio 2015\Projects\wpf_Monopoly\wpf_Monopoly\bin\Debug\wpf_Monopoly.pdb
+c:\users\enp\documents\visual studio 2015\Projects\wpf_Monopoly\wpf_Monopoly\obj\Debug\wpf_Monopoly.csprojResolveAssemblyReference.cache
+c:\users\enp\documents\visual studio 2015\Projects\wpf_Monopoly\wpf_Monopoly\obj\Debug\MainWindow.g.cs
+c:\users\enp\documents\visual studio 2015\Projects\wpf_Monopoly\wpf_Monopoly\obj\Debug\App.g.cs
+c:\users\enp\documents\visual studio 2015\Projects\wpf_Monopoly\wpf_Monopoly\obj\Debug\wpf_Monopoly_MarkupCompile.cache
+c:\users\enp\documents\visual studio 2015\Projects\wpf_Monopoly\wpf_Monopoly\obj\Debug\wpf_Monopoly_MarkupCompile.lref
+c:\users\enp\documents\visual studio 2015\Projects\wpf_Monopoly\wpf_Monopoly\obj\Debug\MainWindow.baml
+c:\users\enp\documents\visual studio 2015\Projects\wpf_Monopoly\wpf_Monopoly\obj\Debug\wpf_Monopoly.g.resources
+c:\users\enp\documents\visual studio 2015\Projects\wpf_Monopoly\wpf_Monopoly\obj\Debug\wpf_Monopoly.Properties.Resources.resources
+c:\users\enp\documents\visual studio 2015\Projects\wpf_Monopoly\wpf_Monopoly\obj\Debug\wpf_Monopoly.csproj.GenerateResource.Cache
+c:\users\enp\documents\visual studio 2015\Projects\wpf_Monopoly\wpf_Monopoly\obj\Debug\wpf_Monopoly.exe
+c:\users\enp\documents\visual studio 2015\Projects\wpf_Monopoly\wpf_Monopoly\obj\Debug\wpf_Monopoly.pdb

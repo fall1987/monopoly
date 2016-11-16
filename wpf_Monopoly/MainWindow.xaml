@@ -6,7 +6,34 @@
         xmlns:local="clr-namespace:wpf_Monopoly"
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
-    <Grid>
-        
+
+    <Grid Name="cont">
+        <Grid Name="head" Margin="0,0,0,276">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"/>
+            </Grid.RowDefinitions>
+
+            <Image Name="header_img" Source="/res/startLogo_monopoly.png" Grid.Row="1">
+                <Image.ToolTip>Test-Tooltip</Image.ToolTip>
+            </Image>
+            
+
+
+
+        </Grid>
+
+        <Grid Name="main" Margin="0,70,0,40">
+
+        </Grid>
+
+        <Grid Name="foot" Margin="0,284,0,0">
+
+        </Grid>
+
     </Grid>
 </Window>
