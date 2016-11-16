@@ -11,5 +11,10 @@ namespace wpf_Monopoly {
     /// Interaktionslogik für "App.xaml"
     /// </summary>
     public partial class App : Application {
+        private void Application_Startup(object sender, StartupEventArgs e) {
+            MainWindow wnd = new MainWindow();
+            wnd.Title = "Monopoly - The PC - Game";
+            wnd.Show();
+        }
     }
 }
