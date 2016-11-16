@@ -19,13 +19,14 @@ namespace wpf_Monopoly {
     /// </summary>
     public partial class MainWindow : Window {
         public MainWindow() {
-            InitializeComponent();            
+            InitializeComponent();
+            grid1.MouseLeftButtonUp += new MouseButtonEventHandler(grid1_MouseLeftButtonUp);       
+        }
+
+        private void grid1_MouseLeftButtonUp(object sender, MouseButtonEventArgs e) {
+            MessageBox.Show("Geklickt! " + e.GetPosition(this).ToString());
         }
 
        
-
-        private void help_Click(object sender, RoutedEventArgs e) {
-
-        }
     }
 }
